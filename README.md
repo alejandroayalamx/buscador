@@ -1,2 +1,3 @@
-# buscador
-Buscador con Efecto CSS
+# Buscador con Efecto CSS
+
+[Ver en Github](https://alejandroayalamx.github.io/buscador/)
